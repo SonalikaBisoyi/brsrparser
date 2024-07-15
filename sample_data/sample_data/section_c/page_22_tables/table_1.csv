@@ -1,0 +1,8 @@
+0,1,2,3
+Parameter,Please specify unit,Fy 2022-23,Fy 2021-22
+Total electricity consumption (A),kilo joules,549248400,668559600
+Total fuel consumption (B),kilo joules,0,0
+Energy consumption through other sources (C),kilo joules,0,0
+Total energy consumption (A+B+C),kilo joules,549248400,668559600
+"Energy intensity per rupee of turnover (Total energy consumption/ 
+turnover in rupees)",kilo joules / per rupee,0.69,0.87

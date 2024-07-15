@@ -1,0 +1,20 @@
+0,1,2,3
+"Parameter
+Please specify unit
+ Fy 2022-23 
+ Fy 2021-22",,,
+Water withdrawal by source (in kilolitres),,,
+"(i) 
+Surface water",kilolitres,0,0
+"(ii) 
+Groundwater",kilolitres,0,0
+"(iii) 
+Third party water",kilolitres,9408,9917
+"(iv) 
+Seawater / desalinated water",kilolitres,0,0
+"(v) 
+Others",kilolitres,0,0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v),kilolitres,9408,9917
+Total volume of water consumption (in kilolitres),kilolitres,9408,9917
+Water intensity per rupee of turnover (Water consumed / turnover),"kilolitres /  
+per rupee",0.000012,0.000013

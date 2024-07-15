@@ -1,0 +1,34 @@
+0,1,2,3
+"Parameter
+Unit
+ Fy 2022-23 
+ Fy 2021-22",,,
+Total Waste generated (in metric tonnes),,,
+Plastic waste (A),metric tonnes,0,0
+E-waste (B),metric tonnes,0,0
+Bio-medical waste (C),metric tonnes,0,0
+Construction and demolition waste (D),metric tonnes,0,0
+Battery waste (E),metric tonnes,0,0
+Radioactive waste (F),metric tonnes,0,0
+"Other Hazardous waste. Please specify, if any. (G)",metric tonnes,0,0
+"Other Non-hazardous waste generated (H). Please specify, if any. (Break-
+up by composition i.e. by materials relevant to the sector)",metric tonnes,0,0
+Total (A+B + C + D + E + F + G + H),metric tonnes,0,0
+"For each category of waste generated, total waste recovered through recycling,  
+re-using or other recovery operations (in metric tonnes)",,,
+Category of waste,,,
+"(i) 
+Recycled",metric tonnes,0,0
+"(ii) 
+Re-used",metric tonnes,0,0
+"(iii) 
+Other recovery operations",metric tonnes,0,0
+Total,metric tonnes,0,0
+"For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)",,,
+Category of waste,,,
+"(i)  
+Incineration",metric tonnes,0,0
+"(ii)  
+Landfilling",metric tonnes,0,0
+(iii)   Other disposal operations,metric tonnes,0,0
+Total,metric tonnes,0,0
